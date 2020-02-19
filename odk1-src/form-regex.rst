@@ -39,7 +39,8 @@ For a clear understanding of regular expressions, try these regex online checker
 - https://regex101.com/
 - https://www.regextester.com/
 - https://regexr.com/
-- http://www.regexe.com/.
+- http://www.regexe.com/
+- https://extendsclass.com/regex-tester.html
 
 .. _tips-on-regex:
 
